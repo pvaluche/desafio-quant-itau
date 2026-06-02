@@ -15,3 +15,19 @@ Develop a quantitative investment robot using statistical modeling, machine lear
 - Jupyter Notebook
 
 ## 📁 Project Structure
+desafio-quant-itau/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+├── notebooks/
+├── src/
+├── reports/
+└── requirements.txt
+
+
+## 📊 Results
+> *To be updated throughout the competition.*
+
+## 👤 Author
+João Pedro Valuche — Economics student @ FGV EPGE
