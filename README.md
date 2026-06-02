@@ -9,22 +9,10 @@ Develop a quantitative investment robot using statistical modeling, machine lear
 > *To be defined as the project evolves.*
 
 ## 🛠️ Technologies
-- Python
-- Pandas / NumPy
-- Scikit-learn
-- Jupyter Notebook
+> *To be defined as the project evolves.*
 
 ## 📁 Project Structure
-desafio-quant-itau/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-├── src/
-├── reports/
-└── requirements.txt
-
+> *To be defined as the project evolves.*
 
 ## 📊 Results
 > *To be updated throughout the competition.*
